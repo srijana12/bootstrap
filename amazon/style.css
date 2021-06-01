@@ -1,0 +1,41 @@
+.custom-nav{
+    background-color:#131921;
+}
+.custom-icon{
+    font-size: 30px;
+
+}
+.navbar{
+    background-color: #232f3e !important;
+}
+.custom-tag{
+    overflow: hidden;
+}
+.custom-tag:hover img{
+    transform:scale(1.6);
+    transition: all 3s;
+}
+footer{
+    background-color:#131921;
+}
+footer h5{
+    color:#ffff;
+}
+footer a{
+    color: #fff !important;
+    text-decoration: none;
+}
+.custom-sidebar{
+    background-color: #dadada;
+}
+a.text-decoration-none:hover{
+    color:orangered !important;
+    text-decoration: underline !important;
+}
+.bi-star-fill,.bi-star-half,.bi-star{
+    color:darkorange;
+}
+
+.card-body{
+    align-items: center;
+}

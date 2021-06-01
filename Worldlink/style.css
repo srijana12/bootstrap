@@ -1,0 +1,30 @@
+.custom-nav{
+    background-color: #dadada;
+}
+.Paybill{
+    background-color:violet;
+   
+    padding: 15px;
+    height: 100px;
+    width: 150px;
+    border-right: 1px solid white;
+}
+.Paybill a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-family:Azo Sans Bold;
+}
+.Paybill ul li{
+    list-style: none;
+}
+footer{
+    background-color: #1c64a3;
+}
+footer h5{
+    color:#fff;
+}
+footer a{
+    color: #fff !important;
+    text-decoration: none;
+}
